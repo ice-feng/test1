@@ -6,5 +6,6 @@ public class ice {
 		System.out.println("feng");
 		System.out.println("wind");
 		System.out.println("liquid");
+		System.out.println("crystal");
 	}
 }
